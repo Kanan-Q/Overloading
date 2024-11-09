@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kanan\\source\\repos\\Methods,Overloading\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E096FE29-F07D-4792-80AB-0F952F081E9F}|Methods,Overloading\\Methods,Overloading.csproj|c:\\users\\kanan\\source\\repos\\methods,overloading\\methods,overloading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E096FE29-F07D-4792-80AB-0F952F081E9F}|Methods,Overloading\\Methods,Overloading.csproj|solutionrelative:methods,overloading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kanan\\source\\repos\\Methods,Overloading\\Methods,Overloading\\Program.cs",
+              "RelativeDocumentMoniker": "Methods,Overloading\\Program.cs",
+              "ToolTip": "C:\\Users\\kanan\\source\\repos\\Methods,Overloading\\Methods,Overloading\\Program.cs",
+              "RelativeToolTip": "Methods,Overloading\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T12:19:39.271Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
